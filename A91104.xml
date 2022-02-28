@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for peace, presented to the high and mighty states of Holland, by the subjects of the Netherlands, for a cessation of all hostility, and an accommodation with his excellency the Lord Gen. Cromwel, and the present power in England. Together with a diurnal of the present affaires, and designes, now on foot, in Denmark, Sweden, and the United Provinces, concerning the soveraignty of the Commonwealth of England, both by sea and land. Translated out of Dutch into English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91104</idno>
+            <idno type="STC">Wing P3783</idno>
+            <idno type="STC">Thomason E701_4</idno>
+            <idno type="STC">ESTC R207052</idno>
+            <idno type="EEBO-CITATION">99866128</idno>
+            <idno type="PROQUEST">99866128</idno>
+            <idno type="VID">166567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166567)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E701[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for peace, presented to the high and mighty states of Holland, by the subjects of the Netherlands, for a cessation of all hostility, and an accommodation with his excellency the Lord Gen. Cromwel, and the present power in England. Together with a diurnal of the present affaires, and designes, now on foot, in Denmark, Sweden, and the United Provinces, concerning the soveraignty of the Commonwealth of England, both by sea and land. Translated out of Dutch into English.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Peace --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166567:1" rendition="simple:additions"/>
+            <p>PROPOSITIONS FOR PEACE, Preſented To the high and mighty States of Hol<g ref="char:EOLhyphen"/>land, by the Subjects of the Netherlands, for a Ceſſation of all Hoſtility, and an Accommoda<g ref="char:EOLhyphen"/>tion with his Excellency the Lord Gen. Crom<g ref="char:EOLhyphen"/>wel, and the preſent Power in <hi>ENGLAND.</hi> Together with a Diurnal of the preſent Affaires, and Deſignes, now on foot, in Den<g ref="char:EOLhyphen"/>mark, Sweden, and the United Provinces, con<g ref="char:EOLhyphen"/>cerning the Soveraignty of the Com<g ref="char:EOLhyphen"/>mon wealth of <hi>England,</hi> both by Sea and Land. <hi>Tranſlated out of</hi> Dutch <hi>into</hi> Engliſh.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166567:2"/>
+            <pb n="3" facs="tcp:166567:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ere is great expectation every mo<g ref="char:EOLhyphen"/>ment of Newes from Admiral Tromp, and ſo much the more, becauſe the Wind is Weſterly, and an en<g ref="char:EOLhyphen"/>gagement very probable; it being Tromps Reſolution to fight, as he ſent word hither, and to the Hague, when he made ſail for the Coaſt of England. The Eaſtland Fleet of merchants, being near 500 in number, were ſo frighted upon the Return of the Eng<g ref="char:EOLhyphen"/>liſh out of the North ſea, that they durſt not ſtir out of the Uly, but kept in, and perhaps they may not ſtir out, til they hear what news from the men of war.</p>
+            <pb n="4" facs="tcp:166567:3"/>
+            <p>There is now a very ſtrong Rumor of an Engagement at ſea; for divers who are newly arrived from Zealand ſay, they heard terrible ſhooting in their paſſage.</p>
+            <p>And news comes from Goree that ſeveral Veſ<g ref="char:EOLhyphen"/>ſels who came in there, affirm, that they alſo heard the reports of innumerable ſhot at ſea; and if an en<g ref="char:EOLhyphen"/>gagement be, great will be the conſequences, be<g ref="char:EOLhyphen"/>cauſe the All of this State lies at Stake. The people here are exceeding confident of Victory, and are up again with their old Rant; that nothing ſhall ſatisfie them but to be Maſters of the Seas, and Harbours of England, and to have a ſurrender of ſuch and ſuch Towns for ſecurity, and to make amends for all their loſſes. Some wiſer, as they think, then the reſt, are ſo bold as to reckon up old ſtories and ex<g ref="char:EOLhyphen"/>amples of ſuch States as in times paſt have been vi<g ref="char:EOLhyphen"/>ctorious at ſea, what conditions thoſe States have impoſed upon them that they have ſubdued, not permitting them to put any men of war more out to ſea, but conſtraining them to ſail under the pro<g ref="char:EOLhyphen"/>tection of the Conquering party. And this they ſay was but Reaſon and Wiſdom to be imitated upon the like occaſion: So that you ſee theſe Low Countries have high imaginations, and as highly
+<pb n="5" facs="tcp:166567:3"/>they may carry it, if they get the better. What then might England do, if it prove victorious, and im<g ref="char:EOLhyphen"/>prove its own right at ſea, ſince theſe who never had any right nor liberty, but by courteſie or en<g ref="char:EOLhyphen"/>couragement, are ſo violent in their premeditated Reſolves how to proſecute an Uſurpation? If men dare to talk thus before the Victory, what wil they not do if they prove victorious? But per<g ref="char:EOLhyphen"/>haps England may remember, after all the ſore knocks for the recovery of her Soveraignty, there can be neither ſafety, nor reputation to the Iſland, unleſs (as of old) it remain abſolute at ſea.</p>
+            <p>And ſurely, this will be remembred now, and a requital returned for their moſt horrid inſolencie, and unparallel'd ingratitude.</p>
+            <p>They are once more raiſing all the ſtrength they can, and endeavour a conjunction with thoſe ſhips at the Weilings; but there is little poſſibili<g ref="char:EOLhyphen"/>ty, by reaſon that the Engliſh Fleet hath blocked up the Texel, and likewiſe lie with another Squa<g ref="char:EOLhyphen"/>dron before Goree-Iſland and the Brill. As for the Relation of the landing of ſome Engliſh, the take<g ref="char:EOLhyphen"/>ing of ſome Forts, and the burning of ſome Dorps and Villages, we have it not confirm'd by any let<g ref="char:EOLhyphen"/>ters of credence; but the Report here carries a quite contrary Eccho.</p>
+            <pb n="6" facs="tcp:166567:4"/>
+            <p>Now though the people, and thoſe out of doors do rant it thus high, yet thoſe within doors, the Councellors and Steers<g ref="char:EOLhyphen"/>men at the Hague, carry things more de<g ref="char:EOLhyphen"/>murely and cloſely; who knowing they can retract when they pleaſe, if they win the day, have therefore reſolved beforehand (for fear of the worſt) that they will ſend an Embaſſie to the preſent power in Eng<g ref="char:EOLhyphen"/>land; and this reſolution is publiſhed every where, that the news of it may fly over ſea; and the Engliſh believe their intent was to ſend Ambaſſadors, whether the ſucceſſe ſhould prove good or bad at ſea; and for the more effectual perſwaſion, it is given out, that nothing ſhall alter this determi<g ref="char:EOLhyphen"/>nation of ſending The perſons agreed on to be ſent are ſaid to be four, viz. one out of Zealand, one out of Friezland, and the L. Newport and Beverning for Holland.</p>
+            <p>As concerning the Affaires of theſe
+<pb n="7" facs="tcp:166567:4"/>Provinces abroad, the ſtate of them is very uncertain at preſent, moſt Nations being at a ſtand to ſee the event of this expected engagement: among others, the King of Denmark hangs off ſtil, being very anxious and ſuſpicious of the Swediſh Queen, her fleet and forces being ready, and very ſolli<g ref="char:EOLhyphen"/>citous about the ſucceſs of the Dutch a<g ref="char:EOLhyphen"/>gainſt the Engliſh, fearing if England pro<g ref="char:EOLhyphen"/>ſper, the Flemmins may leave him in the lurch, as he hath done formerly.</p>
+            <p>Yet notwithſtanding theſe ſeeming O<g ref="char:EOLhyphen"/>vertures for peace, they go on vigorouſly with their preparations for war, and ſeve<g ref="char:EOLhyphen"/>ral Orders, Edicts, and Proclamations, has been printed and publiſhed, inciting all per<g ref="char:EOLhyphen"/>ſons in general, of what Nation ſoever, to come in to their aſſiſtance, proffering dou<g ref="char:EOLhyphen"/>ble pay, that is, to every ſea-man 10 s. per week, and to every land-man 9 s. 4 d. per week. In purſuance whereof, the Golden
+<pb n="8" facs="tcp:166567:5"/>Bank is broke open, as well in this City, as in o<g ref="char:EOLhyphen"/>ther places, and now the lofty Cedars, and others, begin to diſpute the lawfulneſs of the War, and the great Change and Revolutions that are like to occur thereupon.</p>
+            <p>And indeed great are the diſtractions of the poor people, inſomuch, that they have preſented ſundry Petitions to the Councel at the Hague, for an ac<g ref="char:EOLhyphen"/>commodation with England, which have proved ſo effectual, by working upon the preſent temper and ſpirits of the States General, that they have agreed upon ten Propoſitions to be ſent to the preſent Power in England, viz.</p>
+            <p n="1">1 For the making up of the great breach be<g ref="char:EOLhyphen"/>tween the two Republicks.</p>
+            <p n="2">2 For the rendring due ſatisfaction towards the vaſt expence of men and money in this late unhap<g ref="char:EOLhyphen"/>py war.</p>
+            <p n="3">3 For entring into a League offenſive and de<g ref="char:EOLhyphen"/>fenſive.</p>
+            <p n="4">4 For the reſtitution of all ſhips taken.</p>
+            <p n="5">5 Concerning Caution and Security, &amp;c.</p>
+            <closer>
+               <dateline>
+                  <hi>Amſterdam</hi> 
+                  <date>
+                     <hi>June</hi> 14. 1653.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
